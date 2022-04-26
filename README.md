@@ -1,7 +1,7 @@
 # Análise-sobre-acidentes-de-transito
 Repositório para o projeto de INTRODUÇÃO À CIÊNCIA DE DADOS
 
-Alunos: Jafet de Lima e Leandro Queiroz
+Alunos: Jafet de Lima, Leandro Queiroz Mateus Pereira
 
 Os dados serão retirados do https://www.kaggle.com/datasets/mcamera/brazil-highway-traffic-accidents
 
