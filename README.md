@@ -5,8 +5,8 @@ Alunos: Jafet de Lima, Leandro Queiroz e Mateus Pereira
 
 Os dados serão retirados do https://www.kaggle.com/datasets/mcamera/brazil-highway-traffic-accidents
 
-Quantos acidentes aconteceram em 2021 em cada BR?
+Descreva as princiapais causas de acidentes e suas consequencias.
 
-Qual a media diaria dos acidentes na paraiba em 2021?
+Exemplifique os dados em mapas.
 
-Quais as principais causas de acidente no Brasil?
+Usando agrupamentos defina as regiões do Brasil.
